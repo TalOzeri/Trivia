@@ -1,0 +1,1 @@
+{"test": {"password": "test", "score": 65, "questions_asked": []}, "yossi": {"password": "123", "score": 50, "questions_asked": []}, "master": {"password": "master", "score": 240, "questions_asked": []}}
